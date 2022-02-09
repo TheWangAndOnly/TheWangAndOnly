@@ -5,3 +5,8 @@
 <br />
 
 ![image title](https://rushter.com/counter.svg)
+
+My real profile views :(
+
+![](https://komarev.com/ghpvc/?username=TheWangAndOnly)
+
