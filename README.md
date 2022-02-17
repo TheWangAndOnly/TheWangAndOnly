@@ -1,7 +1,7 @@
 ## 👋 👋 👋 I am [Weiyi Wang](https://github.com/TheWangAndOnly)
 
-### A reminder of where it all started
+### Friendly Reminder 
 
-![image](https://user-images.githubusercontent.com/80552414/154579776-50a2b4a3-fbf8-4780-94e0-a346bdcca6f2.png)
+![image](https://user-images.githubusercontent.com/80552414/154581396-0edf3d51-0ab7-4eec-af1e-c07bbed73b86.png)
 
 ![](https://komarev.com/ghpvc/?username=TheWangAndOnly)
